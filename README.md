@@ -7,7 +7,7 @@ The 100-point Answer Engine Optimization rubric — published, versioned, and op
 - **Canonical home:** https://isimplifyme.com/labs/aeo-standard
 - **Current version:** 1.0 (July 2026)
 - **License:** [CC BY 4.0](LICENSE) — use, adapt, and score against it, with attribution
-- **Tooling:** [free web scanner](https://isimplifyme.com/tools/aeo-scanner) · [`npx aeo-scan`](https://www.npmjs.com/package/aeo-scan) CLI preview
+- **Tooling:** [free web scanner](https://isimplifyme.com/tools/aeo-scanner) · [`npx aeo-scan`](https://www.npmjs.com/package/aeo-scan) CLI preview · [scanner source (MIT)](https://github.com/iSimplifyMe/aeo-scan)
 
 ## What this is
 
